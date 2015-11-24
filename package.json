@@ -1,0 +1,30 @@
+{
+  "name": "object-validator",
+  "version": "0.0.1",
+  "description": "Simple object validation",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lpetlinski/object-validator.git"
+  },
+  "keywords": [
+    "validation",
+    "validator",
+    "object",
+    "js",
+    "node"
+  ],
+  "author": "Łukasz Petliński",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lpetlinski/object-validator/issues"
+  },
+  "homepage": "https://github.com/lpetlinski/object-validator#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
+}
